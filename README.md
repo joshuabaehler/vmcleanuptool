@@ -10,5 +10,8 @@ Um das VM Cleanup Tool erfolgreich zu benutzen, müssen folgende Schritte erledi
 Sie können das Repository als .zip Datei herunterladen oder mit einer git bash klonen anhand der URL.
 
 ## Diverses
-Der Code ist OpenSource und kann auch weiterentwickelt werden. Wenn jemand Interesse hätte dieses Tool weiterzuentwickeln, können Sie mit mir über Mail Kontakt aufnehmen:
+Falls irgendwelche Bugs erscheinen, bitte ich Sie für eine rasche, seriöse Kontaktaufnahme per Mail.
+
+Der Code kann jederzeit weiterentwickelt werden. Wenn jemand Interesse hätte dieses Tool weiterzuentwickeln, können Sie mit mir über Mail Kontakt aufnehmen:
+
 Email: mailto:jbaehler@bwzlyss.ch
