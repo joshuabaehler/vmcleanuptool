@@ -1,14 +1,14 @@
-# vm Cleanup Tool
-Herzlich Wilkommen beim vm Cleanup Tool für Ihre gibbix / smartlearn. In diesem Repository findest du den Code, sowie eine entsprechende Anleitung dazu.
+# VM Cleanup Tool
+Herzlich Wilkommen beim vm Cleanup Tool fÃ¼r Ihre gibbix / smartlearn. In diesem Repository findest du den Code, sowie eine entsprechende Anleitung dazu.
 
 ## Anleitung
-Um das vm Cleanup Tool zu benutzen, müssen folgende Schritte getan werden:
- - PowerShell ist verfügbar / aktiviert
+Um das vm Cleanup Tool zu benutzen, mÃ¼ssen folgende Schritte getan werden:
+ - PowerShell ist verfÃ¼gbar / aktiviert
  - gibbix / smartlearn ist angeschlossen und Laufwerkbuchstabe bekannt
- - das Verzeichnis, in welchem alle vms abgespeichert sind (hiermit erwartet man eine saubere und übersichtliche gibbix / smartlearn)
+ - das Verzeichnis, in welchem alle vms abgespeichert sind (hiermit erwartet man eine saubere und Ã¼bersichtliche gibbix / smartlearn)
 
-Sie können das Repository als .zip Datei herunterladen oder mit einer git bash klonen mit der URL.
+Sie kÃ¶nnen das Repository als .zip Datei herunterladen oder mit einer git bash klonen mit der URL.
 
 ## Diverses
-Der Code ist OpenSource und kann auch weiterentwickelt werden. Wenn jemand Interesse hätte, können Sie mit mir über Email Kontakt aufnehmen:
+Der Code ist OpenSource und kann auch weiterentwickelt werden. Wenn jemand Interesse hÃ¤tte, kÃ¶nnen Sie mit mir Ã¼ber Email Kontakt aufnehmen:
 Email: mailto:jbaehler@bwzlyss.ch
