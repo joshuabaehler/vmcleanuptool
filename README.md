@@ -14,4 +14,4 @@ Falls irgendwelche Bugs erscheinen, bitte ich Sie für eine rasche, seriöse Kon
 
 Der Code kann jederzeit weiterentwickelt werden. Wenn jemand Interesse hätte dieses Tool weiterzuentwickeln, können Sie mit mir über Mail Kontakt aufnehmen:
 
-Email: mailto:jbaehler@bwzlyss.ch
+Email: jbaehler@bwzlyss.ch
